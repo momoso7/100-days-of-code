@@ -2,6 +2,7 @@
 
 ### Day 1: 11 November 2020
 **Today's Progress**: I managed to complete FreeCodeCamp's Basic HTML and Basic HTML5.
+
 **Thougts**: I spent almost one hour doing this task. Let's see what else I can do today.
  BTW, here is the link to my [FreeCodeCamp profile](https://www.freecodecamp.org/momoso7).
 <!--### Day 0: February 30, 2016 (Example 1)
