@@ -1,10 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 1: 11 November 2020
+### Day 1: 10 November 2020
 **Today's Progress**: I managed to complete FreeCodeCamp's Basic HTML and Basic HTML5.
 
-**Thougts**: I spent almost one hour doing this task. Let's see what else I can do today.
+**Thoughts**: I spent almost one hour doing this task. Let's see what else I can do today.
  BTW, here is the link to my [FreeCodeCamp profile](https://www.freecodecamp.org/momoso7).
+ 
+ ### Day 2: 11 November 2020
+ **Today's Progress**: Finished the basic CSS section of FreeCodeCamp. Try to make a basic code related to what I've learn in [sololearn](https://code.sololearn.com/WeEcPOUQyc5x/#html).
+ 
+ **Thoughts**: So far, the stuffs I've learned is quite easy to understand. But to use them correctly can be a little bit tricky. Even when making this simple code, I spent a few minutes tinkering stuffs, changing the values of parameters, it's quite fun!
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
