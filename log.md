@@ -7,7 +7,7 @@
  BTW, here is the link to my [FreeCodeCamp profile](https://www.freecodecamp.org/momoso7).
  
  ### Day 2: 11 November 2020
- **Today's Progress**: Finished the basic CSS section of FreeCodeCamp. Try to make a basic code related to what I've studied using[sololearn](https://code.sololearn.com/WeEcPOUQyc5x/#html)'s code playground.
+ **Today's Progress**: Finished the basic CSS section of FreeCodeCamp. Try to make a basic code related to what I've studied using [sololearn](https://code.sololearn.com/WeEcPOUQyc5x/#html)'s code playground.
  
  **Thoughts**: So far, the stuffs I've learned is quite easy to understand. But to use them correctly can be a little bit tricky. Even when making this simple code, I spent a few minutes tinkering stuffs, changing the values of parameters, it's quite fun!
 <!--### Day 0: February 30, 2016 (Example 1)
