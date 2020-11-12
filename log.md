@@ -11,9 +11,10 @@
  
  **Thoughts**: So far, the stuffs I've learned is quite easy to understand. But to use them correctly can be a little bit tricky. Even when making this simple code, I spent a few minutes tinkering stuffs, changing the values of parameters, it's quite fun!
  
- ###Day 3: 12 November 2020
+ ### Day 3: 12 November 2020
  **Today's Progress**: Doing the applived visual design challenges in FreeCodeCamp. Unlike yesterday's challenge, I can't finish this in one go. I also tried to make a front-end page of Google search, but it hasn't finished yet.
  **Thoughts**: Trying to make a front-end of a page is intersting, as there are still lot of functionalities that I haven't learnt. Most browsers today come with the inspect element tools, so I am able to see the HTML codes used by Google, but I can't simply copy them. 
+ 
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
