@@ -19,7 +19,7 @@
  ### Day 4: 13 November 2020
  **Today's Progress**: Still working on the applied visual design challenges in FreeCodeCamp. Hopefully can finish today. It's quite interesting, how we can make some shapes like moons, hearts, and even penguin! 
  
- **Thoughts**: Starting to feel the learning curve, eh? There are rich choices of styling for html, but at the same time, it's also intimidating. I am trying to make a [chessboard]() in sololearn.
+ **Thoughts**: Starting to feel the learning curve, eh? There are rich choices of styling for html, but at the same time, it's also intimidating. I am trying to make a [chessboard](https://code.sololearn.com/WtQ3ZYCO3nDE/#html) in sololearn.
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
