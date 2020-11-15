@@ -20,6 +20,16 @@
  **Today's Progress**: Still working on the applied visual design challenges in FreeCodeCamp. Hopefully can finish today. It's quite interesting, how we can make some shapes like moons, hearts, and even penguin! 
  
  **Thoughts**: Starting to feel the learning curve, eh? There are rich choices of styling for html, but at the same time, it's also intimidating. I am trying to make a [chessboard](https://code.sololearn.com/WtQ3ZYCO3nDE/#html) in sololearn.
+ 
+ ### Day 5: 14 November 2020
+ **Today's Progress**: Finished the applied visual design challenges and make a simple app using Django framework.
+ 
+ **Thoughts**: Although I finished this section (applied visual design), a lot of training still needed in order to familiarise myself with the tools. Same with Django, it is an interesting framework where you could make dynamic webpage, but getting used to the available features will be a difficult task!
+ 
+ ### Day 6: 15 November 2020
+ **Today's Progress**: Finished the applied accessibility challenges.
+ 
+ **Thoughts**: Today's section reminds me that you can't just try to make your webpage to be as fancy as possible, you need to make sure that they are easily read by as many people as possible, including those with difficulties (e.g. colorblind). Also, using the proper semantics in your webpage can make development easier.
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
