@@ -30,6 +30,11 @@
  **Today's Progress**: Finished the applied accessibility challenges.
  
  **Thoughts**: Today's section reminds me that you can't just try to make your webpage to be as fancy as possible, you need to make sure that they are easily read by as many people as possible, including those with difficulties (e.g. colorblind). Also, using the proper semantics in your webpage can make development easier.
+ 
+ ### Day 7: 16 November 2020
+ **Today's Progress**: Finished the responsive web design principles and CSS flexbox challenges.
+ 
+ **Thoughts**: Again, today's challenges taught me some tools that can improve websites' readbility. It is really useful, and surprisingly there are lot of stuffs to learn and experiment to. Hopefully I can apply them on real projects as soon as possible.
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
