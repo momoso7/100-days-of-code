@@ -35,6 +35,11 @@
  **Today's Progress**: Finished the responsive web design principles and CSS flexbox challenges.
  
  **Thoughts**: Again, today's challenges taught me some tools that can improve websites' readbility. It is really useful, and surprisingly there are lot of stuffs to learn and experiment to. Hopefully I can apply them on real projects as soon as possible.
+ 
+ ### Day 8: 17 November 2020
+ **Today's Progress**: Started doing the CSS Grid challenges.
+ 
+ **Thoughts**: Not so much work today, hopefully tomorrow I can up the productivity!
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
