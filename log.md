@@ -40,6 +40,12 @@
  **Today's Progress**: Started doing the CSS Grid challenges.
  
  **Thoughts**: Not so much work today, hopefully tomorrow I can up the productivity!
+ 
+ ### Day 9: 19 November 2020
+ **Today's Progress**: Finished the CSS Grid challenges. Soon I can start the responsive web design project.
+ 
+ **Thoughts**: whoopps.. Skipped a day bacause busy schedule, I am still in tho according to the rules :p, but hopefully next time I can still find time to coding.
+ 
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
