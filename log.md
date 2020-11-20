@@ -46,6 +46,11 @@
  
  **Thoughts**: whoopps.. Skipped a day bacause busy schedule, I am still in tho according to the rules :p, but hopefully next time I can still find time to coding.
  
+ ### Day 10: 20 November 2020
+ **Today's Progress**: Started working on the tribute page project from FCC. See this [codepen link](https://codepen.io/momoso7/pen/bGeyJZd).
+ 
+ **Thougths**: I almost satisfy all the specification (or to borrow FCC's term, user story.) Hopefully it can be finished tomorrow. I need to recall many features I have learned before.
+ 
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
