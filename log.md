@@ -51,6 +51,16 @@
  
  **Thougths**: I almost satisfy all the specification (or to borrow FCC's term, user story.) Hopefully it can be finished tomorrow. I need to recall many features I have learned before.
  
+ ### Day 11: 21 November 2020
+ **Today's Progress**: Finished the tribute page, for [Galois](https://codepen.io/momoso7/full/bGeyJZd).
+ 
+ **Thoughts**: I used a lot of references, some good ones are W3Schools, mozilla developer, bootstraps. While this project was challenging, I think we don't need too many tricky code.
+ 
+ ### Day 12: 22 November 2020
+ **Today's Progress**: Started the survey form page, the next project regarding responsive web design.
+ 
+ **Thoughts**: I already felt that this one is harder than the tribute page XD, can I finish this tomorrow?
+ 
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
