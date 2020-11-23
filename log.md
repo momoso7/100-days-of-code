@@ -61,6 +61,11 @@
  
  **Thoughts**: I already felt that this one is harder than the tribute page XD, can I finish this tomorrow?
  
+ ### Day 13: 23 November 2020
+ **Today's Progress**: Finished the minimum requirement for the form page, but I can still improve it, so I will try to do that tomorrow.
+ 
+ **Thoughts**: Finally finished this one, although some parts are still unsatisfactory. Will continue tomorrow, but you can see the current [form](https://codepen.io/momoso7/full/yLJdGpN) here.
+ 
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
