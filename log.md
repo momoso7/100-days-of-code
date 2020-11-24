@@ -66,6 +66,10 @@
  
  **Thoughts**: Finally finished this one, although some parts are still unsatisfactory. Will continue tomorrow, but you can see the current [form](https://codepen.io/momoso7/full/yLJdGpN) here.
  
+ ### Day 14: 24 November 2020
+ **Today's Progress** : Started product landing page project. Not improving much of the already finished survey form.
+ 
+ **Thoughts**: The progress is quite slow.. stuck doing the header, especially regarding the positions of the navigation bar. It's quite hard to grasp what is the difference between absolute, relative, and others.
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
