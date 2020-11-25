@@ -67,9 +67,14 @@
  **Thoughts**: Finally finished this one, although some parts are still unsatisfactory. Will continue tomorrow, but you can see the current [form](https://codepen.io/momoso7/full/yLJdGpN) here.
  
  ### Day 14: 24 November 2020
- **Today's Progress** : Started product landing page project. Not improving much of the already finished survey form.
+ **Today's Progress**: Started product landing page project. Not improving much of the already finished survey form.
  
  **Thoughts**: The progress is quite slow.. stuck doing the header, especially regarding the positions of the navigation bar. It's quite hard to grasp what is the difference between absolute, relative, and others.
+ 
+ ### Day 15: 25 November 2020
+ **Today's Progress**: Continue the product landing page project and trying to make a simple program in python.
+ 
+ **Thoughts**: The product landing page is quite hard, but I almost fulfill all the user stories. Try to make a simple python program as a side project, it is more intended to refresh my memories regarding python's basic functions. I believe python will be useful later for web development.
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
