@@ -80,6 +80,11 @@
 **Today's Progress**: Finished the product landing page.
 
 **Thoughts**: This one is quite challenging, but finally finished it! Like the previous project, it still can be improved, especially design-wise. The media queries that I defined also hasn't working properly when tested. I wonder what is the cause of this?
+
+### Day 17: 27 November 2020
+**Today's Progress**: Started doing the technical documentation page.
+
+**Thoughts**: So far, everything goes quite smoothly. But reading the user stories, I think it will be a challenge to make the navigation bar. Let's see if I can finish this tomorrow.
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
