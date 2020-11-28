@@ -85,6 +85,11 @@
 **Today's Progress**: Started doing the technical documentation page.
 
 **Thoughts**: So far, everything goes quite smoothly. But reading the user stories, I think it will be a challenge to make the navigation bar. Let's see if I can finish this tomorrow.
+
+### Day 18: 28 November 2020
+**Today's Progress**: Continue technical documentation page, still not done, especially the navigation bar.
+
+**Thoughts**: Besides the navigation bar, I think the page is going smoothly. Btw, this is the codepen page for the [product landing page](https://codepen.io/momoso7/full/dypbPbX).
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
