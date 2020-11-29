@@ -90,7 +90,12 @@
 **Today's Progress**: Continue technical documentation page, still not done, especially the navigation bar.
 
 **Thoughts**: Besides the navigation bar, I think the page is going smoothly. Btw, this is the codepen page for the [product landing page](https://codepen.io/momoso7/full/dypbPbX).
-<!--### Day 0: February 30, 2016 (Example 1)
+
+### Day 19: 29 November 2020
+**Today's Progress**: Finished the technical documentation page! But still can be improved.
+
+**Thoughts**: The technical documentation page is working as intended, but it can still be dressed so it looks better and more comfortable to navigate. Follow the development [here](https://codepen.io/momoso7/full/zYKYyBb).
+<!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
