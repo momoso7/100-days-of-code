@@ -95,6 +95,11 @@
 **Today's Progress**: Finished the technical documentation page! But still can be improved.
 
 **Thoughts**: The technical documentation page is working as intended, but it can still be dressed so it looks better and more comfortable to navigate. Follow the development [here](https://codepen.io/momoso7/full/zYKYyBb).
+
+### Day 20: 1 December 2020
+**Today's Progress**: Started the personal portofolio page. Edited the technical documentation.
+
+**Thoughts**: Slow progress today, life is catching up. But no excuse! Will do better tomorrow
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
