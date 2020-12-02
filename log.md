@@ -100,6 +100,11 @@
 **Today's Progress**: Started the personal portofolio page. Edited the technical documentation.
 
 **Thoughts**: Slow progress today, life is catching up. But no excuse! Will do better tomorrow
+
+### Day 21: 2 December 2020
+**Today's Progress**: Ramping up the personal portofolio page. 
+
+**Thoughts**: For how many projects in a row? the navigation bar part is the hardest one! Finally, I successfully made a working media query.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
