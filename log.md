@@ -105,6 +105,11 @@
 **Today's Progress**: Ramping up the personal portofolio page. 
 
 **Thoughts**: For how many projects in a row? the navigation bar part is the hardest one! Finally, I successfully made a working media query.
+
+### Day 22: 3 December 2020
+**Today's Progress**: Finished up the personal portofolio page, yay!
+
+**Thoughts**: Quite a challenge, but managed to finish it. I have finished the responsive web design challenge. On to the next one. You can find the personal portofolio page [here](https://codepen.io/momoso7/full/dypormj).
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
