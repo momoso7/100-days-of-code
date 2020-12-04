@@ -110,6 +110,11 @@
 **Today's Progress**: Finished up the personal portofolio page, yay!
 
 **Thoughts**: Quite a challenge, but managed to finish it. I have finished the responsive web design challenge. On to the next one. You can find the personal portofolio page [here](https://codepen.io/momoso7/full/dypormj).
+
+### Day 23: 4 December 2020
+**Today's Progress**: Started doing the basic javascript challenge. Finally I tried this language.
+
+**Thoughts**: So far, the syntax is feels similar to C++. Should be fun!
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
