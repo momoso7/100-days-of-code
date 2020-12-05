@@ -115,6 +115,11 @@
 **Today's Progress**: Started doing the basic javascript challenge. Finally I tried this language.
 
 **Thoughts**: So far, the syntax is feels similar to C++. Should be fun!
+
+### Day 24: 5 December 2020
+**Today's Progress**: Continuing the javascript challenge. Learning about string, arrays.
+
+**Thoughts**: Actually, the syntax is more similar to Python!! So far, it wasn't very hard to follow. Hopefully I can intergrate javascript to websites soon.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
