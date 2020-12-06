@@ -120,6 +120,11 @@
 **Today's Progress**: Continuing the javascript challenge. Learning about string, arrays.
 
 **Thoughts**: Actually, the syntax is more similar to Python!! So far, it wasn't very hard to follow. Hopefully I can intergrate javascript to websites soon.
+
+### Day 25: 6 December 2020
+**Today's Progres**: Tweaking javascripts again.
+
+**Thoughts**: Try to understand the concept of function, local& global variables, and arrays through examples.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
