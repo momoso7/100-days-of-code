@@ -125,6 +125,11 @@
 **Today's Progres**: Tweaking javascripts again.
 
 **Thoughts**: Try to understand the concept of function, local& global variables, and arrays through examples.
+
+### Day 26: 7 December 2020
+**Today's Progress**: Continuing the javascript challenge, using logic tools. 
+
+**Thoughts**: Again, it felt similar to Python. Just a small difference in some syntax. I managed to make a golf score announcer.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
