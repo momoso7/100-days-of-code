@@ -130,6 +130,11 @@
 **Today's Progress**: Continuing the javascript challenge, using logic tools. 
 
 **Thoughts**: Again, it felt similar to Python. Just a small difference in some syntax. I managed to make a golf score announcer.
+
+### Day 27: 8 December 2020
+**Today's Progress**: Switch and objects (still javascript).
+
+**Thoughts**: Slow progress today. Managed to make a blackjack predictor, it's quite hard!
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
