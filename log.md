@@ -135,6 +135,11 @@
 **Today's Progress**: Switch and objects (still javascript).
 
 **Thoughts**: Slow progress today. Managed to make a blackjack predictor, it's quite hard!
+
+### Day 28: 9 December 2020
+**Today's Progress**: Objects properties, nested objects and lists.
+
+**Thoughts**: The challenge today is quite hard, and it is good to know that object definitions could replace switch cases.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
