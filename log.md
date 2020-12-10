@@ -140,6 +140,11 @@
 **Today's Progress**: Objects properties, nested objects and lists.
 
 **Thoughts**: The challenge today is quite hard, and it is good to know that object definitions could replace switch cases.
+
+### Day 29: 10 December 2020
+**Today's Progress**: Make an update record function.
+
+**Thoughts**: This is the hardest task yet. Spent one hour just for one thing!!
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
