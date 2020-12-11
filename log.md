@@ -145,6 +145,11 @@
 **Today's Progress**: Make an update record function.
 
 **Thoughts**: This is the hardest task yet. Spent one hour just for one thing!!
+
+### Day 30: 11 December 2020
+**Today's Progress**: Made an profile lookup function and doing some data analysis stuffs for extra. Also learning the iterative in javascript.
+
+**Thoughts**: Again, the task is a little bit tricky this time. Need to be careful in determining the end of an loop/iterative.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
