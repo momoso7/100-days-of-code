@@ -150,6 +150,16 @@
 **Today's Progress**: Made an profile lookup function and doing some data analysis stuffs for extra. Also learning the iterative in javascript.
 
 **Thoughts**: Again, the task is a little bit tricky this time. Need to be careful in determining the end of an loop/iterative.
+
+### Day 31: 12 December 2020
+**Today's Progress**: Finished the basic javascript challenge. 
+
+**Thoughts**: The last part is challenging!
+
+### Day 32: 13 December 2020
+**Today's Progress**: Start the ES6 challenge. Analysing data with pandas
+
+**Thoughts**: The ES6 is an interesting aspect of javascript, looks like it would be hard to learn this. On the other hand, Pandas is very useful for displaying data in a natural way.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
