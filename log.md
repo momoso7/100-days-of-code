@@ -160,6 +160,11 @@
 **Today's Progress**: Start the ES6 challenge. Analysing data with pandas
 
 **Thoughts**: The ES6 is an interesting aspect of javascript, looks like it would be hard to learn this. On the other hand, Pandas is very useful for displaying data in a natural way.
+
+### Day 33: 14 December 2020
+**Today's Progress**: Continue the ES6 challenge, learning about destructuring arrays. element search in pandas and logical operators.
+
+**Thoughts**: The ES6 challenge is quite confusing! What should I do?! Meanwhile, the data analysis challenge is okay so far.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
