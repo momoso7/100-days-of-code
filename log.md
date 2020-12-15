@@ -165,6 +165,11 @@
 **Today's Progress**: Continue the ES6 challenge, learning about destructuring arrays. element search in pandas and logical operators.
 
 **Thoughts**: The ES6 challenge is quite confusing! What should I do?! Meanwhile, the data analysis challenge is okay so far.
+
+### Day 34: 15 December 2020
+**Today's Progress**: Finished the basic ES6 challenges. For data analysis, refreshing my memories regarding if/else and boolean operators. I also learnt some features of numpy.
+
+**Thoughts**: Start to understanding the basic objects of Javascript, such as class. There is also a weird feature, promise.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
