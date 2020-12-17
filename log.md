@@ -170,6 +170,16 @@
 **Today's Progress**: Finished the basic ES6 challenges. For data analysis, refreshing my memories regarding if/else and boolean operators. I also learnt some features of numpy.
 
 **Thoughts**: Start to understanding the basic objects of Javascript, such as class. There is also a weird feature, promise.
+
+### Day 35: 16 December 2020
+**Today's Progress**: Starting the regular expressions challenges. Continue to manipulate dataframes with logical expressions
+
+**Thoughts**: Just an usual day ~~
+
+### Day 36: 17 December 2020
+**Today's Progress**: Contiune the regular expressions challenges. Manipulate dataframes, arrays with loop.
+
+**Thoughts**: Today challenge is super hard. First time I am looking for hints to finish a challenge. Hopefully I won't get discouraged!
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
