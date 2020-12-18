@@ -180,6 +180,11 @@
 **Today's Progress**: Contiune the regular expressions challenges. Manipulate dataframes, arrays with loop.
 
 **Thoughts**: Today challenge is super hard. First time I am looking for hints to finish a challenge. Hopefully I won't get discouraged!
+
+### Day 37: 18 December 2020
+**Today's Progress**: Regular expression is difficult, slow progress on this one, but almost done.
+
+**Thoughts**: The grouping is really hard, how we need to find pattern in a string sequence with limited syntax. Need to practice a lot for this one.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
