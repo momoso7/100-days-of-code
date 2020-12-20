@@ -185,6 +185,16 @@
 **Today's Progress**: Regular expression is difficult, slow progress on this one, but almost done.
 
 **Thoughts**: The grouping is really hard, how we need to find pattern in a string sequence with limited syntax. Need to practice a lot for this one.
+
+### Day 38: 19 December 2020
+**Today's Progress**: Finally finished regular expressions challenges, but definetely need to revisit this one. Try to simulate hacker statistics in DataCamp.
+
+**Thoughts**: Regular expressions (again) is a hard subject, but I can feel how powerful it is. It is able to process and match strings using just a few lines of code (sometimes just need one line)
+
+### Day 39: 20 December 2020
+**Today's Progress**: Start the debugging challenges on FCC. Trying some pandas basic on DataCamp.
+
+**Thoughts**: Nothing to say so far, let's keep grinding!
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
