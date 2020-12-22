@@ -195,6 +195,17 @@
 **Today's Progress**: Start the debugging challenges on FCC. Trying some pandas basic on DataCamp.
 
 **Thoughts**: Nothing to say so far, let's keep grinding!
+
+### Day 40: 21 December 2020
+
+**Today's Progress**: Finish the debugging challenges on FCC. Recalled some basic plotting tools on Python.
+
+**Thoughts**: Debugging is important, need to be careful especially when dealing with loops (infinite loops is dangerous)
+
+### Day 41: 22 December 2020
+**Today's Progress**: Started the data structure challenges on FCC. Learn more regarding pandas on DataCamp.
+
+**Thoughts**: Keep moving forward!
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
