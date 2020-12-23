@@ -206,6 +206,11 @@
 **Today's Progress**: Started the data structure challenges on FCC. Learn more regarding pandas on DataCamp.
 
 **Thoughts**: Keep moving forward!
+
+### Day 42: 23 December 2020
+**Today's Progress**: Learned some tricks related to dataframes. Finished the javascript objects challenges.
+
+**Thoughts**: Today's datacamp materials are quite hard, fortunately there are the help documentations. I didn't need to search materials in google when I forgot what should I used.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
