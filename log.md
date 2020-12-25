@@ -211,6 +211,16 @@
 **Today's Progress**: Learned some tricks related to dataframes. Finished the javascript objects challenges.
 
 **Thoughts**: Today's datacamp materials are quite hard, fortunately there are the help documentations. I didn't need to search materials in google when I forgot what should I used.
+
+### Day 43: 24 December 2020
+**Today's Progress**: Continuing the data manipulation with pandas datacamp. Started basic scripting challenge on FCC.
+
+**Thoughts**: Tomorrow is Christmas, let's see if I had time to code.
+
+### Day 44: 25 December 2020
+**Today's Progress**: Finished the data manipulation with pandas. Continue on some basic scripting in javascript.
+
+**Thoughts**: Yay, I found time to code! I try to document the scripting I have made in Codepen. Will share the link later. 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
