@@ -221,6 +221,11 @@
 **Today's Progress**: Finished the data manipulation with pandas. Continue on some basic scripting in javascript.
 
 **Thoughts**: Yay, I found time to code! I try to document the scripting I have made in Codepen. Will share the link later. 
+
+### Day 45: 26 December 2020
+**Today's Progress**: Trying to master the methods to join data with pandas. Continue basic scripting in javascript.
+
+**Thoughts**: Some of the basic scripting case were quite difficult. For example, the one where we need to test regular expressions from a variable. Need to check stack exchange for that one.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
