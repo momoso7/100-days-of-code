@@ -226,6 +226,11 @@
 **Today's Progress**: Trying to master the methods to join data with pandas. Continue basic scripting in javascript.
 
 **Thoughts**: Some of the basic scripting case were quite difficult. For example, the one where we need to test regular expressions from a variable. Need to check stack exchange for that one.
+
+### Day 46: 28 December 2020
+**Today's Progress**: Mostly joining tables in datacamp and playing around with jupyter notebook.
+
+**Thoughts**: Jupyter notebook is very fun! Lots of interesting stuffs. The datacamp challenge is starting to be a little bit hard, again, hopefully I won't be discouraged!
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
