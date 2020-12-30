@@ -231,6 +231,16 @@
 **Today's Progress**: Mostly joining tables in datacamp and playing around with jupyter notebook.
 
 **Thoughts**: Jupyter notebook is very fun! Lots of interesting stuffs. The datacamp challenge is starting to be a little bit hard, again, hopefully I won't be discouraged!
+
+### Day 47: 29 December 2020
+**Today's Progress**: Still continuing the joining tables challenge in Datacamp.
+
+**Thoughts**: Just continue my day as usual. 
+
+### Day 48: 30 December 2020
+**Today's Progress**: Finished joining tables challenge
+
+**Thoughts**: Joining tables (merge,concat) can be a very useful tool, but there is a lot of options to do this, so I need to recognize which method to use.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
