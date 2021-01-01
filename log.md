@@ -241,6 +241,11 @@
 **Today's Progress**: Finished joining tables challenge
 
 **Thoughts**: Joining tables (merge,concat) can be a very useful tool, but there is a lot of options to do this, so I need to recognize which method to use.
+
+### Day 49: 01 January 2021
+**Today's Progress**: Getting used to matplotlib basic usages. Continue my journey in basic algorithm scripting of javascript
+
+**Thoughts**: Hopefully this year is gonna be a good year. The javascript challenge is becoming harder and harder, my pace suffered quite a lot.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
