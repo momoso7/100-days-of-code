@@ -246,6 +246,16 @@
 **Today's Progress**: Getting used to matplotlib basic usages. Continue my journey in basic algorithm scripting of javascript
 
 **Thoughts**: Hopefully this year is gonna be a good year. The javascript challenge is becoming harder and harder, my pace suffered quite a lot.
+
+### Day 50: 02 January 2021
+**Today's Progress**: Plotting time series in datacamp, and doing some basic javascript algorithm in freecodecamp.
+
+**Thoughts**: The challenge in javascript algorithm is so difficult, I need stackexchange more and more.
+
+### Day 51: 03 January 2021
+**Today's Progress**: Quantitative comparisons and statistical visualization in datacamp
+
+**Thoughts**: Now I understand more the difference between bar chart and histogram. Also learnt some tricks regarding scatter plot. No time to do javascript related work today. 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
