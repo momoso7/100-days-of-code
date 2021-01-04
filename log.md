@@ -256,6 +256,11 @@
 **Today's Progress**: Quantitative comparisons and statistical visualization in datacamp
 
 **Thoughts**: Now I understand more the difference between bar chart and histogram. Also learnt some tricks regarding scatter plot. No time to do javascript related work today. 
+
+### Day 52: 04 January 2021
+**Today's Progress**: Finished the visualization with matplotlib challenge in datacamp.
+
+**Thoughts**: Some interesting stuffs today, need to up the pace tomorrow
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
