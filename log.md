@@ -261,6 +261,11 @@
 **Today's Progress**: Finished the visualization with matplotlib challenge in datacamp.
 
 **Thoughts**: Some interesting stuffs today, need to up the pace tomorrow
+
+### Day 53: 05 January 2021
+**Today's Progress**: Starting the seaborn basics challenge
+
+**Thoughts**: I still don't understand why we need seaborn when it is really similar with matplotlib.pyplot
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
