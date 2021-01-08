@@ -271,6 +271,11 @@
 **Today's Progress**: Line plot vs scatter plot difference
 
 **Thoughts**: Starting to see the power of Seaborn. It's really convenient!
+
+### Day 55: 08 January 2021
+**Today's Progress**: Plotting categorical data
+
+**Thoughts**: So many tools to remember! Box plot, line plot, count and bar plot..
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
