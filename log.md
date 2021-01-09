@@ -276,6 +276,11 @@
 **Today's Progress**: Plotting categorical data
 
 **Thoughts**: So many tools to remember! Box plot, line plot, count and bar plot..
+
+### Day 56: 09 January 2021
+**Today's Progress**: Legend, title, and putting all lessons regarding seaborn together
+
+**Thoughts**: I really need to put all of this information into real projects. Next stop, importing data with python.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
