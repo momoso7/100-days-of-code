@@ -281,6 +281,11 @@
 **Today's Progress**: Legend, title, and putting all lessons regarding seaborn together
 
 **Thoughts**: I really need to put all of this information into real projects. Next stop, importing data with python.
+
+### Day 57: 10 January 2021
+**Today's Progress**: Importing data with python
+
+**Thoughts**: Interesting, this one is the hardest so far. Need more time to do this. Will see this again tomorrow
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
