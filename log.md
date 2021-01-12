@@ -286,6 +286,11 @@
 **Today's Progress**: Importing data with python
 
 **Thoughts**: Interesting, this one is the hardest so far. Need more time to do this. Will see this again tomorrow
+
+### Day 58: 12 January 2021
+**Today's Progress**: Finished the intro to importing data with python and flat data
+
+**Thoughts**: I managed to finish this finally, some parts still need to be revisited, but I got most of the ideas. Managed to see why pandas is needed, instead of just numpy. There is no much time today, but maybe I will try to look at some javascript.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
