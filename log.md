@@ -291,6 +291,16 @@
 **Today's Progress**: Finished the intro to importing data with python and flat data
 
 **Thoughts**: I managed to finish this finally, some parts still need to be revisited, but I got most of the ideas. Managed to see why pandas is needed, instead of just numpy. There is no much time today, but maybe I will try to look at some javascript.
+
+### Day 59: 13 January 2021
+**Today's Progress**: Importing other types of file using python
+
+**Thoughts**: There are a lot of types of file used in data science... xls, matlab, SPSS, and others.. 
+
+### Day 60: 15 January 2021
+**Today's Progress**: Intro to relational databases
+
+**Thoughts**: Hello again, SQL. This is interesting, and shows the power of Python, where we can easily manage SQL using Python
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
