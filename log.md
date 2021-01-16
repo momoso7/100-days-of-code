@@ -301,6 +301,11 @@
 **Today's Progress**: Intro to relational databases
 
 **Thoughts**: Hello again, SQL. This is interesting, and shows the power of Python, where we can easily manage SQL using Python
+
+### Day 61: 16 January 2021
+**Today's Progress**: More advanced data importing with python
+
+**Thoughts**: Previously I have learnt how to import data locally, now I need to import data from the web, using APIs. Looks cool!
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
