@@ -306,6 +306,11 @@
 **Today's Progress**: More advanced data importing with python
 
 **Thoughts**: Previously I have learnt how to import data locally, now I need to import data from the web, using APIs. Looks cool!
+
+### Day 62: 17 January 2021
+**Today's Progress**: APIs from Openmovie and Twitter
+
+**Thoughts**: Although what I have learned today is just basic procedures, here we can see that the APIs methods are very powerful. In today example, I tried to parse some tweets containing specific words. I wonder what else we can do using APIs?
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
