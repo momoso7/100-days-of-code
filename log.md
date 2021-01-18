@@ -311,6 +311,11 @@
 **Today's Progress**: APIs from Openmovie and Twitter
 
 **Thoughts**: Although what I have learned today is just basic procedures, here we can see that the APIs methods are very powerful. In today example, I tried to parse some tweets containing specific words. I wonder what else we can do using APIs?
+
+### Day 63: 18 January 2021
+**Today's Progress**: Cleaning data using Python
+
+**Thoughts**: Interesting work today, cleaning data is clearly important to get the most accurate insights. 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
