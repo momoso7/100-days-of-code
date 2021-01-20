@@ -316,6 +316,11 @@
 **Today's Progress**: Cleaning data using Python
 
 **Thoughts**: Interesting work today, cleaning data is clearly important to get the most accurate insights. 
+
+### Day 64: 20 January 2021
+**Today's Progress**: More cleaning data and time series forecasting
+
+**Thoughts**: I tried to play around with drop_duplicates() functions, and also look at a time series forecasting method.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
