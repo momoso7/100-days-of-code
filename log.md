@@ -321,6 +321,13 @@
 **Today's Progress**: More cleaning data and time series forecasting
 
 **Thoughts**: I tried to play around with drop_duplicates() functions, and also look at a time series forecasting method.
+
+### Day 65: 21 January 2021
+**Today's Progress**: Cleaning text and categorical data
+
+**Thoughts**: I got more insights regarding what kind of problems that could arise when checking data. Also, assert is a powerful tool for confirming that our cleaning methods really did what we wanted. 
+
+I never thought that I would met regex here, after learning it before in javascript.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
