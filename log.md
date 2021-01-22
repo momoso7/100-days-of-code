@@ -328,6 +328,11 @@
 **Thoughts**: I got more insights regarding what kind of problems that could arise when checking data. Also, assert is a powerful tool for confirming that our cleaning methods really did what we wanted. 
 
 I never thought that I would met regex here, after learning it before in javascript.
+
+### Day 66: 22 January 2021
+**Today's Progress**: Try to clean some data, especially datas with missing values or inconsistent values
+
+**Thoughts**: Besides coding, to clean data, you must have a good sanity check ability.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
