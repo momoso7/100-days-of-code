@@ -333,6 +333,11 @@ I never thought that I would met regex here, after learning it before in javascr
 **Today's Progress**: Try to clean some data, especially datas with missing values or inconsistent values
 
 **Thoughts**: Besides coding, to clean data, you must have a good sanity check ability.
+
+### Day 67: 23 January 2021
+**Today's Progress**: Try to do record linkage
+
+**Thoughts**: The world of data cleaning is so complex! This is like the more advanced version of joining data, where similar (but not exactly the same) values are considered, to participate errors in data entry (e.g. typo 'Jakarta' and 'Ajkarta')
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
