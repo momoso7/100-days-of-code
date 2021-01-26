@@ -348,6 +348,11 @@ I never thought that I would met regex here, after learning it before in javascr
 **Today's Progress**: Exploring the distribution of data
 
 **Thoughts**: Need to review the concept of cdf and pmf, but the methods we used mostly are from the previous works, nothing new yet. Maybe the norm object.
+
+### Day 70: 26 January 2021
+**Today's Progress**: Correlation and linear regression
+
+**Thoughts**: wow, recalling lot of statistics today. Correlation can be used in many ways, but need to be careful not to misinterpret its results 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
