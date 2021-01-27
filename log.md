@@ -353,6 +353,11 @@ I never thought that I would met regex here, after learning it before in javascr
 **Today's Progress**: Correlation and linear regression
 
 **Thoughts**: wow, recalling lot of statistics today. Correlation can be used in many ways, but need to be careful not to misinterpret its results 
+
+### Day 71: 27 January 2021
+**Today's Progress**: Multivariate relationships between variables
+
+**Thoughts**: This one is very difficult. Need to revisit this section in the future. Some great tips: look at visualisation first can be helpful before you count corelation or linear regression
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
