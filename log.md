@@ -358,6 +358,11 @@ I never thought that I would met regex here, after learning it before in javascr
 **Today's Progress**: Multivariate relationships between variables
 
 **Thoughts**: This one is very difficult. Need to revisit this section in the future. Some great tips: look at visualisation first can be helpful before you count corelation or linear regression
+
+### Day 72: 28 January 2021
+**Today's Progress**: Cleaning Stanford open policing data
+
+**Thoughts**: Nothing too special today, tomorrow is gonna be fun!
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
