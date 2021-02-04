@@ -388,6 +388,11 @@ I never thought that I would met regex here, after learning it before in javascr
 **Today's Progress**: Working with spreadsheet again
 
 **Thoughts**: Mostly focusing on how to import data in spreadsheet format with pandas.
+
+### Day 78: 04 February 2021
+**Today's Progress**: Working with SQL
+
+**Thoughts**: Hmm SQL queries can be really complex!! It is easy to get into SQL, but definitely hard to master it
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
