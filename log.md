@@ -398,6 +398,11 @@ I never thought that I would met regex here, after learning it before in javascr
 **Today's Progress**: Working again with JSONs and APIs
 
 **Thoughts**: These data type are one of the hardest I have done so far. Definitely need to return to practice this one a lot. But they are super powerful, as I remember seeing some analysis contents on dota 2 subreddit, most of them were utilising valve's API.
+
+### Day 80: 06 February 2021
+**Today's Progress**: Relational databases using SQL
+
+**Thoughts**: Diagrams are useful before we start coding our tables, they enable us to see the relations between variables clearly.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
