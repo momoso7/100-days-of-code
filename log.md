@@ -403,6 +403,11 @@ I never thought that I would met regex here, after learning it before in javascr
 **Today's Progress**: Relational databases using SQL
 
 **Thoughts**: Diagrams are useful before we start coding our tables, they enable us to see the relations between variables clearly.
+
+### Day 81: 07 February 2021
+**Today's Progress**: Attribute constraints in SQL
+
+**Thoughts**: Attribute constraints seems to be inconvenient at the first glance, but it will be good for our database in the long run because they ensue consistency in the data.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
