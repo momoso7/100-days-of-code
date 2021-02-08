@@ -408,6 +408,11 @@ I never thought that I would met regex here, after learning it before in javascr
 **Today's Progress**: Attribute constraints in SQL
 
 **Thoughts**: Attribute constraints seems to be inconvenient at the first glance, but it will be good for our database in the long run because they ensue consistency in the data.
+
+### Day 82: 08 February 2021
+**Today's Progress**: Attending workshop on people analytics
+
+**Thoughts**: Very interesting workshop, I learnt quite a lot. But the workshop is using R language, which I am not familiar with.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
