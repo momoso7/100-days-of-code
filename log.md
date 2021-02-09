@@ -413,6 +413,11 @@ I never thought that I would met regex here, after learning it before in javascr
 **Today's Progress**: Attending workshop on people analytics
 
 **Thoughts**: Very interesting workshop, I learnt quite a lot. But the workshop is using R language, which I am not familiar with.
+
+### Day 83: 09 February 2021
+**Today's Progress**: Keys in SQL
+
+**Thoughts**: Keys is an interesting concept, and defintely will use this a lot in the future. By the way, I was wondering what is the difference between datatype char and varchar?
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
