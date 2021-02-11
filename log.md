@@ -423,6 +423,11 @@ I never thought that I would met regex here, after learning it before in javascr
 **Today's Progress**: Foreign keys in SQL
 
 **Thoughts**: We are trying to link a table with another table using foreign keys. It is important to implement foreign keys correctly, and to decide what to do in the case of violations of referencial integrity.
+
+### Day 85: 11 February 2021
+**Today's Progress**: SQL refreshment and time series analysis
+
+**Thoughts**: Practice some SQL basic commands, and try to understand the time series analysis given by Algoritma (on January)
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
