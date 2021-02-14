@@ -433,6 +433,11 @@ I never thought that I would met regex here, after learning it before in javascr
 **Today's Progress**: Inner join in SQL
 
 **Thoughts**: Woww... inner join in SQL so far feels easier than in python. But anyway, it is such a powerful tool!
+
+### Day 87: 14 February 2021
+**Today's Progress**: Outer join in SQL
+
+**Thoughts**: There are many kinds of outer joins; cross join, full join, left/right join. Combined with inner join, we need to carefully choose which joins to use.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
