@@ -438,6 +438,11 @@ I never thought that I would met regex here, after learning it before in javascr
 **Today's Progress**: Outer join in SQL
 
 **Thoughts**: There are many kinds of outer joins; cross join, full join, left/right join. Combined with inner join, we need to carefully choose which joins to use.
+
+### Day 88: 15 February 2021
+**Today's Progress**: Set theory clauses
+
+**Thoughts**: Another types of joins!! There are semi and anti join. Many tools at our disposal. We also learn the set theory clauses which is, as shown in mathematics class, consist of UNION, INTERSECT, and EXCEPT.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
