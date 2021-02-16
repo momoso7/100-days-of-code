@@ -443,6 +443,11 @@ I never thought that I would met regex here, after learning it before in javascr
 **Today's Progress**: Set theory clauses
 
 **Thoughts**: Another types of joins!! There are semi and anti join. Many tools at our disposal. We also learn the set theory clauses which is, as shown in mathematics class, consist of UNION, INTERSECT, and EXCEPT.
+
+### Day 89: 16 February 2021
+**Today's Progress**: Subqueries 
+
+**Thoughts**: Subqueries most often appears on WHERE, FROM, SELECT (in that order, according to datacamp). SQL has a high celling, so much to learn!!
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
