@@ -448,6 +448,11 @@ I never thought that I would met regex here, after learning it before in javascr
 **Today's Progress**: Subqueries 
 
 **Thoughts**: Subqueries most often appears on WHERE, FROM, SELECT (in that order, according to datacamp). SQL has a high celling, so much to learn!!
+
+### Day 90: 17 February 2021
+**Today's Progress**: Relational databases with Python
+
+**Thoughts**: What we have learned yesterday regarding SQL will be applied to python. There will be some adjustments in syntax but it should be worth it in the long run. 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
