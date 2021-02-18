@@ -453,6 +453,11 @@ I never thought that I would met regex here, after learning it before in javascr
 **Today's Progress**: Relational databases with Python
 
 **Thoughts**: What we have learned yesterday regarding SQL will be applied to python. There will be some adjustments in syntax but it should be worth it in the long run. 
+
+### Day 91: 18 February 2021
+**Today's Progress**: Advanced queries in Sqlalchemy
+
+**Thoughts**: Amazing! We were able to use sql functions such as count, sum, etc. and at the same time use more applicable python stuffs such as pd dataframe and pyplot. 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
