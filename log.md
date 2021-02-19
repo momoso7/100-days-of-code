@@ -458,12 +458,19 @@ I never thought that I would met regex here, after learning it before in javascr
 **Today's Progress**: Advanced queries in Sqlalchemy
 
 **Thoughts**: Amazing! We were able to use sql functions such as count, sum, etc. and at the same time use more applicable python stuffs such as pd dataframe and pyplot. 
+
+### Day 92: 19 February 2021
+**Today's Progress**: Advanced SQL query
+
+**Thoughts**: Actually these were all stuffs that I have learned before, just now they are in python syntax.
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
 
 **Link to work:** [Calculator App](http://www.example.com)
 
