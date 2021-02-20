@@ -464,6 +464,11 @@ I never thought that I would met regex here, after learning it before in javascr
 
 **Thoughts**: Actually these were all stuffs that I have learned before, just now they are in python syntax.
 
+### Day 93: 20 February 2021
+**Today's Progress**: Make my own SQL table using python
+
+**Thoughts**: create, insert, update, and delete/drop table
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
