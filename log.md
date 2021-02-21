@@ -469,6 +469,11 @@ I never thought that I would met regex here, after learning it before in javascr
 
 **Thoughts**: create, insert, update, and delete/drop table
 
+### Day 94: 21 February 2021
+**Today's Progress**: Finished relational database with python exercise and the data scientist track
+
+**Thoughts**: Need a lot of practice so I remember what I've learnt
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
