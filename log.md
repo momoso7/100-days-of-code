@@ -474,6 +474,11 @@ I never thought that I would met regex here, after learning it before in javascr
 
 **Thoughts**: Need a lot of practice so I remember what I've learnt
 
+### Day 95: 23 February 2021
+**Today's Progress**: Datacamp project; analysing Super bowl's halftime performance and tv ratings
+
+**Thoughts**: This project is good to show how all pandas and pyplot functions that I have learnt can be used together. Also some nice insights from Datacamp's team in regards of what to observe when analysing data.
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
