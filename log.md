@@ -479,6 +479,11 @@ I never thought that I would met regex here, after learning it before in javascr
 
 **Thoughts**: This project is good to show how all pandas and pyplot functions that I have learnt can be used together. Also some nice insights from Datacamp's team in regards of what to observe when analysing data.
 
+### Day 96: 24 February 2021
+**Today's Progress**: Analysing reviews and apps data from android playstore
+
+**Thoughts**: Interesting stuffs, and I also encounter some problems that lead me to a few debugging. Sometimes, all you need to do is restart and refresh repeatedly!
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
