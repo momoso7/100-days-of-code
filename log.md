@@ -484,6 +484,9 @@ I never thought that I would met regex here, after learning it before in javascr
 
 **Thoughts**: Interesting stuffs, and I also encounter some problems that lead me to a few debugging. Sometimes, all you need to do is restart and refresh repeatedly!
 
+### Day 97: 25 February 2021
+**Today's Progress**: OOP in Python
+**Thoughts**: Class is a really useful features, and inheritence will be useful for large programs. 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
