@@ -488,6 +488,11 @@ I never thought that I would met regex here, after learning it before in javascr
 **Today's Progress**: OOP in Python
 
 **Thoughts**: Class is a really useful features, and inheritence will be useful for large programs. 
+
+### Day 98: 26 February 2021
+**Today's Programming**: Topic modelling; semantic analysis; word cloud
+
+**Thoughts**: This is a hard topic, text analysis! But it is incredibly powerful. Fortunately I have many training to come in order to understand the available tools.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
