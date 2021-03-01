@@ -490,14 +490,19 @@ I never thought that I would met regex here, after learning it before in javascr
 **Thoughts**: Class is a really useful features, and inheritence will be useful for large programs. 
 
 ### Day 98: 26 February 2021
-**Today's Programming**: Topic modelling; semantic analysis; word cloud
+**Today's Progress**: Topic modelling; semantic analysis; word cloud
 
 **Thoughts**: This is a hard topic, text analysis! But it is incredibly powerful. Fortunately I have many training to come in order to understand the available tools.
 
 ### Day 99: 27 February 2021
-**Today's Programming**: Analysing the development of Scala language, the data is from GitHub
+**Today's Progress**: Analysing the development of Scala language, the data is from GitHub
 
 **Thoughts**: Many amazing stuffs that has been done today, thanks Datacamp. I need to try some tools by myself, such as pivot table.
+
+### Day 100: 1 March 2021
+**Today's Progress**: Functions for data science in python
+
+**Thoughts**: Reaffirm my knowledge in functions and tuples.Btw, finally reached the 100th day. I think I will continue this log for awhile tho.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
