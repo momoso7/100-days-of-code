@@ -503,6 +503,11 @@ I never thought that I would met regex here, after learning it before in javascr
 **Today's Progress**: Functions for data science in python
 
 **Thoughts**: Reaffirm my knowledge in functions and tuples.Btw, finally reached the 100th day. I think I will continue this log for awhile tho.
+
+### Day 101: 3 March 2021
+**Today's Progress**: Image classification workshop
+
+**Thoughts**: Although I still confused with lot of things, the notebook shared during this workshop was really helpful.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
